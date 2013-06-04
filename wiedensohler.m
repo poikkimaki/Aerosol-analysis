@@ -2,6 +2,7 @@ function [ fN ] = wiedensohler( Dp, N )
 % Wiedensohlerin kaava N varaus (-2, -1, 1, 2) ja Dp hiukkaskoko
 % Laskee Wiedensohlerin kaavan mukaisesti N varauksen omaavien hiukkasten
 % Dp(nm)osuuden f(N) kaikista hiukkasista käyttäen kertoimia a(N)
+%lisäkommenttia
 
 % valitaan wiedensohler kerroin vektori a(N)
 if N == -2
