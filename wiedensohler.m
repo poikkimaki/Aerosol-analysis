@@ -30,5 +30,5 @@ end
 log10_fN = summa; % wiedensohlerin yhtälön toinen puoli
 fN = 10^(log10_fN); % hiukkasten osuus f(N)
 
-end
+end % end of function
 
