@@ -1,4 +1,4 @@
 TUT-AECHAMO
 ===========
 
-Aerosol chamber modell
+Aerosol chamber model
