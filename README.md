@@ -1,4 +1,4 @@
-TUT-AECHAMO
+Aerosol-analysis
 ===========
 
-Aerosol chamber model
+Codes for analyzing aerosol data.
